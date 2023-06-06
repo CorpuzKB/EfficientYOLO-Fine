@@ -1,9 +1,8 @@
 # EfficientYOLO-Fine
 [Under construction]
 
-This repository is used to train an anchor-based YOLO variant using the following:
+This repository is used to train an anchor-based YOLO variant using TensorFlow and Keras. The following modifications were used:
 
-                    
 Structure  | Basis | References
 ------------- | ------------- |-------------
 Backbone  | EfficientNetV2 |[[1]](https://arxiv.org/abs/2104.00298) [[2]](https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet_v2)
